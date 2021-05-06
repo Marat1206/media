@@ -1,0 +1,21 @@
+
+@media (max-width: 1024px) {
+
+    nav menu .menu {
+        display: none;
+    }
+
+}
+
+@media (max-width: 1024px){
+    header nav menu{
+        width: 50%;
+    }
+}
+
+@media (max-width: 1024px){
+    header nav {
+        display: flex;
+        justify-content: center;
+    }
+}

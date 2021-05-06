@@ -1,0 +1,23 @@
+
+h3{
+    font-size: x-large;
+    padding: 10px 0;
+}
+
+footer a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #909090;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid #ccc;
+    padding: 20px 0 30px;
+}
+
+.footer{
+    width: 100%;
+}

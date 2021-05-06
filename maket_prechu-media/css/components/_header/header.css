@@ -1,0 +1,38 @@
+header {
+    margin: 0 auto;
+}
+
+header nav {
+    padding: 20px;
+    width: 100%;
+}
+
+header nav menu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li a:hover {
+    border-bottom: 3px solid rgb(105, 105, 255);
+    padding-bottom: 32px;
+}
+
+a{
+    text-decoration: none;
+    color: #909090;
+}
+
+header nav menu li:not(:last-child) {
+    padding-right: 20px;
+}
+
+.logo, .menu{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    justify-content: flex-end;
+}

@@ -1,0 +1,19 @@
+
+.items {
+    margin-bottom: 31px;
+    padding: 40px;
+}
+
+.items .items-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items .items-wrapper div {
+    line-height: 20px;
+    text-align: center;
+    }
+
+    .items .items-wrapper img {
+        width: 150px;
+    }

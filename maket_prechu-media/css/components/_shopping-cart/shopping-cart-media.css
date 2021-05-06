@@ -1,0 +1,35 @@
+
+@media (max-width: 1024px) {
+    .cart-items .cart-wrapper .cart {
+        display: none;
+    }
+
+    .cart-items .cart-wrapper {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .cart-items .cart-header {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media (max-width: 767px) {
+   .cart-items .cart-wrapper .cart {
+       display: none;
+   }
+
+   .cart-items .cart-header {
+       display: flex;
+       justify-content: center;
+   }
+
+}
+
+
+
+
+ 

@@ -1,0 +1,42 @@
+
+@media (max-width: 1024px) {
+
+    .banner .banner-wrapper {
+        width: 100%;
+    justify-content: center;
+    }
+
+    .banner .banner-wrapper .phone {
+        display: none;
+    }
+
+    .banner{
+        width: 100%;
+    }
+
+    .banner .banner-wrapper .text {
+       align-items: center;
+       text-align: center;
+    }
+
+}
+
+
+@media (max-width: 767px) {
+    .banner .banner-wrapper  {
+        display: flex;
+        justify-content: center;
+        padding: 0px 130px;
+
+    }
+
+}
+
+@media (max-width: 320px) {
+    .banner  {
+        background-image: none;
+    }
+
+}
+
+

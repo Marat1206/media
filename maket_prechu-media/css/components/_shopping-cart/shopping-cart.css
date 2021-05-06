@@ -1,0 +1,28 @@
+
+.cart-items .cart-wrapper{
+    display: flex;
+}
+
+.cart-items{
+    padding: 20px;
+}
+
+.cart, .cart-text{
+    width: 50%;
+}
+
+.cart img{
+    width: 300px;
+}
+
+.cart-header{
+padding-bottom: 45px;
+font-size: xx-large;
+color: #909090;
+}
+
+.cart-text{
+    line-height: 26px;
+    color: #909090;
+}
+
